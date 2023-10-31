@@ -41,8 +41,3 @@ print(increaase_person_age(person))
 print(person['age'])
 
 
-
-
-
-
-
