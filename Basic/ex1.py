@@ -7,4 +7,4 @@ class Pont:
 a=Pont()
 b=Pont()
 
-print("second")
+print(a.color,a.circle)
